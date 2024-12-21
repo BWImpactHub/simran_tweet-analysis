@@ -1,3 +1,2 @@
 # simran_tweet-analysis
-<br>
-Author -> Simran Mulla
+Author - Simran Mulla
