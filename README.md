@@ -31,16 +31,18 @@
             <th> Tokens </th>
         </tr>
         <tr>
-            <td> 1, ['flood', 'damage'] </td>
+            <td> 1 </td>
+            <td> ['flood', 'damage'] </td>
         </tr>
         <tr>
-            <td> 0, ['happy','day']</td>
+            <td> 0 </td>
+            <td> ['happy','day'] </td>
         </tr>
         <tr>
-            <td> 1, ['earthquake','rescue']</td>
+            <td> 1 </td>
+            <td> ['earthquake','rescue'] </td>
         </tr>
-    </table>
-    <br>
+    </table><br>
     > comDisa: A pandas Series holding the top 30 words.<br>
     > comDisa_count: A pandas Series holding the corresponding word counts.<br>
     > sns.barplot: Creates a bar plot where comDisa is on the x-axis and comDisa_count on the y-axis.<br>
