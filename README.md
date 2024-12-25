@@ -1,8 +1,8 @@
 # simran_tweet-analysis
-<h1> Anand Hole </h1>
+<h3> Anand Hole </h3>
 <p> -- Gathered Data, did cleaning and null value handling.<br> </p>
 
-<h1>Author - Simran Mulla</h1>
+<h3>Author - Simran Mulla</h3>
 <br>
 <p> --Text processing:Tools and Libraries Used<br>
     > NLTK: For stopword removal, tokenization, and stemming.<br>
