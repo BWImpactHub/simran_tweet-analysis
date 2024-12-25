@@ -2,6 +2,14 @@
 <h3> Anand Hole </h3>
 <p> -- Gathered Data, did cleaning and null value handling.<br> </p>
 
+<h3> Chandrashekhar Kadam </h3>
+<P>
+Exploratory Data Analysis (EDA) : <br>
+1.Data Overview : Understanding the dataset structure, column descriptions, and target distribution (`disaster` vs. `non-disaster` tweets).<br>
+2.Text Analysis : Analyzing the distribution of text length, unique word counts, and frequent words or phrases. <br>
+3.Visualization : Using matplotlib library word clouds, bar charts, and histograms to better understand the character and words in dataset.<br>
+</p>
+
 <h3>Author - Simran Mulla</h3>
 <p> --Text processing:Tools and Libraries Used<br>
     > NLTK: For stopword removal, tokenization, and stemming.<br>
