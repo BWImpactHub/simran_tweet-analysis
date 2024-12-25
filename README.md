@@ -40,7 +40,7 @@
             <td> 1, ['earthquake','rescue']</td>
         </tr>
     </table>
-    
+    <br>
     > comDisa: A pandas Series holding the top 30 words.<br>
     > comDisa_count: A pandas Series holding the corresponding word counts.<br>
     > sns.barplot: Creates a bar plot where comDisa is on the x-axis and comDisa_count on the y-axis.<br>
