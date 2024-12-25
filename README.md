@@ -25,11 +25,22 @@
     > Iterates over each token (word) in the tokenized message.<br>
     > Adds each word to the Disaster_corpus list.<br>
     Example:<br> 
-    | target | tokens                     |<br>
-    |--------|----------------------------|<br>
-    |   1    | ['flood', 'damage']        |<br>
-    |   0    | ['happy', 'day']           |<br>
-    |   1    | ['earthquake', 'rescue']   |<br>
+    <table border="1">
+        <tr>
+            <th> Target </th>
+            <th> Tokens </th>
+        </tr>
+        <tr>
+            <td> 1, ['flood', 'damage'] </td>
+        </tr>
+        <tr>
+            <td> 0, ['happy','day']</td>
+        </tr>
+        <tr>
+            <td> 1, ['earthquake','rescue']</td>
+        </tr>
+    </table>
+    
     > comDisa: A pandas Series holding the top 30 words.<br>
     > comDisa_count: A pandas Series holding the corresponding word counts.<br>
     > sns.barplot: Creates a bar plot where comDisa is on the x-axis and comDisa_count on the y-axis.<br>
