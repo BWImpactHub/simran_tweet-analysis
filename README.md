@@ -59,3 +59,16 @@ Exploratory Data Analysis (EDA) : <br>
     > The <b> gensim.models.Word2Vec </b> module allows you to create and train Word2Vec models for text vectorization.<br>
     
 </p>
+
+<h3> Arjun Ritapure </h3>
+<h4> Naive Bayes </h4>
+<p>
+--Naive Bayes Classifier:GaussianNB,BernoulliNB<br>
+> The purpose of the Naive Bayes classifier is to perform classificatin tasks using probability principles.It's a supervised machine learning algorithm.<br>
+> The Naive Bayes classifier uses Bayes theorem of probability to predict an unknown class. as it's simple,efficient,and accurate.<br>
+> Efficiency:It is a fast and efficient classifier that can handle large datasets.<br>
+> Accuracy:It's fairly accurate when the conditional independence assumption holds.<br>
+> Text classification:Used fo sentiment analysis and spam filtering.<br> 
+<p>
+
+
